@@ -42,5 +42,6 @@ npm install
 - [Assertions](documentation/assertions.md)
 - [Approval Testing](documentation/approval-testing.md)
 - [Property Based Testing](documentation/property-based-testing.md)
+- [Logs Spy](documentation/logs-spy.md)
 
 <!-- jhipster-needle-documentation -->
