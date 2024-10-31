@@ -1,0 +1,8 @@
+logging:
+  level:
+    tech:
+      jhipster:
+        pulsarapp: INFO
+spring:
+  application:
+    name: Pulsarapp
