@@ -24,6 +24,7 @@ npm install
 
 ## Local environment
 
+- [Local server](http://localhost:8081)
 
 <!-- jhipster-needle-localEnvironment -->
 
@@ -43,5 +44,6 @@ npm install
 - [Approval Testing](documentation/approval-testing.md)
 - [Property Based Testing](documentation/property-based-testing.md)
 - [Logs Spy](documentation/logs-spy.md)
+- [CORS configuration](documentation/cors-configuration.md)
 
 <!-- jhipster-needle-documentation -->
