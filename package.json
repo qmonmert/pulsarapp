@@ -1,0 +1,17 @@
+{
+  "name": "pulsarapp",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Chips Project",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "prepare": "husky"
+  },
+  "devDependencies": {
+    "husky": "9.1.6",
+    "lint-staged": "15.2.10"
+  }
+}
