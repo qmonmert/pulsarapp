@@ -41,5 +41,6 @@ npm install
 - [Package types](documentation/package-types.md)
 - [Assertions](documentation/assertions.md)
 - [Approval Testing](documentation/approval-testing.md)
+- [Property Based Testing](documentation/property-based-testing.md)
 
 <!-- jhipster-needle-documentation -->
