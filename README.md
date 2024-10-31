@@ -45,5 +45,6 @@ npm install
 - [Property Based Testing](documentation/property-based-testing.md)
 - [Logs Spy](documentation/logs-spy.md)
 - [CORS configuration](documentation/cors-configuration.md)
+- [sonar](documentation/sonar.md)
 
 <!-- jhipster-needle-documentation -->
