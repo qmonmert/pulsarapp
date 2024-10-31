@@ -1,3 +1,3 @@
 module.exports = {
-  '*': [], //default configuration, replace with your own
+  '*.proto': () => ['mvn proto-backwards-compatibility:backwards-compatibility-check', 'git add *proto.lock'],
 };
