@@ -9,3 +9,11 @@ spring:
     banner-mode: 'off'
 server:
   port: 0
+pulsar:
+  client:
+    num-io-threads: 8
+  consumer:
+    subscription-name: test-subscription
+    topic-names[0]: test-topic
+  producer:
+    topic-name: test-topic

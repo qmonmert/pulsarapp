@@ -28,3 +28,6 @@ management:
         - logfile
         - loggers
         - threaddump
+pulsar:
+  client:
+    service-url: pulsar://localhost:6650

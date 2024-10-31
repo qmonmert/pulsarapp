@@ -34,6 +34,10 @@ npm install
 ./mvnw 
 ```
 
+```bash
+docker compose -f src/main/docker/pulsar.yml up -d
+```
+
 
 <!-- jhipster-needle-startupCommand -->
 
